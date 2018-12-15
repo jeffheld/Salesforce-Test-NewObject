@@ -19,6 +19,10 @@
     <layoutAssignments>
         <layout>RMA__c-RMA Layout</layout>
     </layoutAssignments>
+    <tabVisibilities>
+        <tab>RMA__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
