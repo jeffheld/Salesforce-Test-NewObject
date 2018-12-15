@@ -24,6 +24,10 @@
     <members>RMA__c</members>
   </types>
   <types>
+    <name>PermissionSet</name>
+    <members>Salesforce_RMA_User</members>
+  </types>
+  <types>
     <name>Profile</name>
     <members>Admin</members>
   </types>
