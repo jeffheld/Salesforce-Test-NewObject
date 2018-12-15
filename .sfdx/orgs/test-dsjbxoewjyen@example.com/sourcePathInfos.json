@@ -164,45 +164,6 @@
         }
     ],
     [
-        "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
-        {
-            "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 5001,
-            "modifiedTime": 1544886355528,
-            "changeTime": 1544886355528,
-            "contentHash": "3108b84b9c6fd33fbd753fc0f1f865ff5bd8c3de",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
-        {
-            "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 5001,
-            "modifiedTime": 1544886355536,
-            "changeTime": 1544886355536,
-            "contentHash": "3108b84b9c6fd33fbd753fc0f1f865ff5bd8c3de",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
-        {
-            "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 5339,
-            "modifiedTime": 1544886355544,
-            "changeTime": 1544886355544,
-            "contentHash": "37ac572bccd21aa6f5f6bc155e6cccea90f67fc8",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
         "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
             "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
@@ -231,14 +192,14 @@
     [
         "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\objects\\RMA__c",
         {
-            "state": "u",
             "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\objects\\RMA__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544886954772,
             "changeTime": 1544886954772,
-            "contentHash": "516f9ca6c223452cdaab6989679b7f065fe90183"
+            "contentHash": "516f9ca6c223452cdaab6989679b7f065fe90183",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -322,27 +283,27 @@
     [
         "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\objects\\RMA__c\\listViews\\All.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\objects\\RMA__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 377,
             "modifiedTime": 1544886954775,
             "changeTime": 1544886954775,
-            "contentHash": "42d1fe0b242001239c270ed28de628c537ce99eb"
+            "contentHash": "42d1fe0b242001239c270ed28de628c537ce99eb",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\objects\\RMA__c\\listViews",
         {
-            "state": "u",
             "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\objects\\RMA__c\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544886954775,
             "changeTime": 1544886954775,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
