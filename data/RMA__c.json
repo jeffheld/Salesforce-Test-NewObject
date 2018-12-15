@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "RMA__c",
+                "referenceId": "RMA__cRef1"
+            },
+            "Name": "RMR-1000",
+            "RMA_Status__c": "New",
+            "Due_Date__c": "2019-01-25"
+        }
+    ]
+}

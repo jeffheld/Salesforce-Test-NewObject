@@ -1,0 +1,11 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef1"
+            },
+            "ActivityDate": "2019-01-10"
+        }
+    ]
+}
