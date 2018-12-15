@@ -86,6 +86,19 @@
         <type>Date</type>
     </fields>
     <fields>
+        <fullName>Reason__c</fullName>
+        <externalId>false</externalId>
+        <label>Reason</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>RMA_Reason</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Requested_By__c</fullName>
         <deleteConstraint>SetNull</deleteConstraint>
         <externalId>false</externalId>
@@ -116,6 +129,7 @@
         <columns>NAME</columns>
         <columns>Account__c</columns>
         <columns>Requested_By__c</columns>
+        <columns>Reason__c</columns>
         <columns>Due_Date__c</columns>
         <columns>RMA_Status__c</columns>
         <filterScope>Everything</filterScope>

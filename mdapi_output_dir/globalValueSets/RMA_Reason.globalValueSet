@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>CANCELLED - Canceled (Shipped Anyway)</fullName>
+        <default>false</default>
+        <label>CANCELLED - Canceled (Shipped Anyway)</label>
+    </customValue>
+    <customValue>
+        <fullName>CARRIER-ER - Carrier Error</fullName>
+        <default>false</default>
+        <label>CARRIER-ER - Carrier Error</label>
+    </customValue>
+    <customValue>
+        <fullName>DAMAGED - Damaged</fullName>
+        <default>false</default>
+        <label>DAMAGED - Damaged</label>
+    </customValue>
+    <customValue>
+        <fullName>DEALER-ERR - Mis-ordered by Dealer</fullName>
+        <default>false</default>
+        <label>DEALER-ERR - Mis-ordered by Dealer</label>
+    </customValue>
+    <customValue>
+        <fullName>DEFECT - Defective Product</fullName>
+        <default>true</default>
+        <label>DEFECT - Defective Product</label>
+    </customValue>
+    <customValue>
+        <fullName>DUPLICATE - Duplicated Order</fullName>
+        <default>false</default>
+        <label>DUPLICATE - Duplicated Order</label>
+    </customValue>
+    <customValue>
+        <fullName>MISHP-CH - Mis-shipment/Shortage (Chesterton)</fullName>
+        <default>false</default>
+        <label>MISHP-CH - Mis-shipment/Shortage (Chesterton)</label>
+    </customValue>
+    <customValue>
+        <fullName>MISHP-SS - Mis shipment/Shortage (Sam-Son)</fullName>
+        <default>false</default>
+        <label>MISHP-SS - Mis shipment/Shortage (Sam-Son)</label>
+    </customValue>
+    <customValue>
+        <fullName>ORD-ENT-ER - Order Entry Error</fullName>
+        <default>false</default>
+        <label>ORD-ENT-ER - Order Entry Error</label>
+    </customValue>
+    <customValue>
+        <fullName>OTHER - Other</fullName>
+        <default>false</default>
+        <label>OTHER - Other</label>
+    </customValue>
+    <customValue>
+        <fullName>RECOMM-ERR - Recommendation Error</fullName>
+        <default>false</default>
+        <label>RECOMM-ERR - Recommendation Error</label>
+    </customValue>
+    <customValue>
+        <fullName>REP ERR - Rep Group Error</fullName>
+        <default>false</default>
+        <label>REP ERR - Rep Group Error</label>
+    </customValue>
+    <customValue>
+        <fullName>SAMPLES - Samples</fullName>
+        <default>false</default>
+        <label>SAMPLES - Samples</label>
+    </customValue>
+    <customValue>
+        <fullName>SHORTAGE - Shortage</fullName>
+        <default>false</default>
+        <label>SHORTAGE - Shortage</label>
+    </customValue>
+    <customValue>
+        <fullName>STARIN ERR - Starin Error</fullName>
+        <default>false</default>
+        <label>STARIN ERR - Starin Error</label>
+    </customValue>
+    <customValue>
+        <fullName>TRY-BUY - Try  Buy</fullName>
+        <default>false</default>
+        <label>TRY-BUY - Try  Buy</label>
+    </customValue>
+    <customValue>
+        <fullName>WRNTY-SERV - Warranty Service</fullName>
+        <default>false</default>
+        <label>WRNTY-SERV - Warranty Service</label>
+    </customValue>
+    <masterLabel>RMA Reason</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

@@ -4,6 +4,7 @@
     <columns>NAME</columns>
     <columns>Account__c</columns>
     <columns>Requested_By__c</columns>
+    <columns>Reason__c</columns>
     <columns>Due_Date__c</columns>
     <columns>RMA_Status__c</columns>
     <filterScope>Everything</filterScope>

@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
     <name>GlobalValueSet</name>
+    <members>RMA_Reason</members>
     <members>RMA_Status</members>
   </types>
   <types>
@@ -13,6 +14,7 @@
     <members>RMA__c.Account__c</members>
     <members>RMA__c.Due_Date__c</members>
     <members>RMA__c.RMA_Status__c</members>
+    <members>RMA__c.Reason__c</members>
     <members>RMA__c.Requested_By__c</members>
   </types>
   <types>
