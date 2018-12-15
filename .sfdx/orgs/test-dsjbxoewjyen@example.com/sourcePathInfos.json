@@ -114,14 +114,14 @@
     [
         "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\objects\\RMA__c\\fields\\Due_Date__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\objects\\RMA__c\\fields\\Due_Date__c.field-meta.xml",
             "isDirectory": false,
-            "size": 349,
-            "modifiedTime": 1544884052770,
-            "changeTime": 1544884052770,
-            "contentHash": "90d911be23d7bdac2c22278febec08b170b922d5",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 405,
+            "modifiedTime": 1544891108027,
+            "changeTime": 1544891108027,
+            "contentHash": "eb31bccdf2dad40eb8edee42ff104abf99562153"
         }
     ],
     [
@@ -153,40 +153,40 @@
     [
         "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\layouts\\RMA__c-RMA Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\layouts\\RMA__c-RMA Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3719,
             "modifiedTime": 1544890763090,
             "changeTime": 1544890763090,
-            "contentHash": "d3eaa26725606fae787ae649d3e6459100ce3e6f"
+            "contentHash": "d3eaa26725606fae787ae649d3e6459100ce3e6f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 19021,
             "modifiedTime": 1544890763124,
             "changeTime": 1544890763124,
-            "contentHash": "01474f1d4c474bc13384668dc8a6f77406e27286"
+            "contentHash": "01474f1d4c474bc13384668dc8a6f77406e27286",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\globalValueSets",
         {
-            "state": "u",
             "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\globalValueSets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544890763055,
             "changeTime": 1544890763055,
-            "contentHash": "e4431eb2cf6bc9ad7682c9c75e8cde57e53a0be0"
+            "contentHash": "e4431eb2cf6bc9ad7682c9c75e8cde57e53a0be0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -218,14 +218,14 @@
     [
         "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\objects\\RMA__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\objects\\RMA__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544890763075,
             "changeTime": 1544890763075,
-            "contentHash": "c7702e3237acbe4f3d3968463cca81ff6496a4b0"
+            "contentHash": "c7702e3237acbe4f3d3968463cca81ff6496a4b0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -283,14 +283,14 @@
     [
         "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\objects\\RMA__c\\listViews\\All.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\objects\\RMA__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 410,
             "modifiedTime": 1544890763068,
             "changeTime": 1544890763068,
-            "contentHash": "9bb5c82b3579c18ad6aa744f75a01fdf74f86116"
+            "contentHash": "9bb5c82b3579c18ad6aa744f75a01fdf74f86116",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -335,27 +335,27 @@
     [
         "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\globalValueSets\\RMA_Reason.globalValueSet-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\globalValueSets\\RMA_Reason.globalValueSet-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3226,
             "modifiedTime": 1544890763055,
             "changeTime": 1544890763055,
-            "contentHash": "e2b624ae8e650200a71aed40ebeeec136160f428"
+            "contentHash": "e2b624ae8e650200a71aed40ebeeec136160f428",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\objects\\RMA__c\\fields\\Reason__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\objects\\RMA__c\\fields\\Reason__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 466,
             "modifiedTime": 1544890763075,
             "changeTime": 1544890763075,
-            "contentHash": "5f17dd0e847f761d948dd9f104ea5be47952ec1f"
+            "contentHash": "5f17dd0e847f761d948dd9f104ea5be47952ec1f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]

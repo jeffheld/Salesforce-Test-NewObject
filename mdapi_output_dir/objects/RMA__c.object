@@ -78,6 +78,7 @@
     </fields>
     <fields>
         <fullName>Due_Date__c</fullName>
+        <defaultValue>ADDMONTHS( TODAY() ,1)</defaultValue>
         <externalId>false</externalId>
         <label>Due Date</label>
         <required>false</required>
