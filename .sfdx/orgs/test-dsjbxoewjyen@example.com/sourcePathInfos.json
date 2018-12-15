@@ -32,14 +32,14 @@
     [
         "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1544886355515,
-            "changeTime": 1544886355515,
-            "contentHash": "dd490d3c462c3c8b41a169355ab7677bd3c9f3d6",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1544889137804,
+            "changeTime": 1544889137804,
+            "contentHash": "3ea6cd31d3f9b8b778523ebacbf570021982db47"
         }
     ],
     [
@@ -304,6 +304,32 @@
             "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\permissionsets\\Salesforce_RMA_User.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\permissionsets\\Salesforce_RMA_User.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 545,
+            "modifiedTime": 1544889137806,
+            "changeTime": 1544889137806,
+            "contentHash": "10dfdcd32a02852cbc568bb36d5125d3305b05cd"
+        }
+    ],
+    [
+        "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Dev\\Projects\\Salesforce\\testNewObject\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544889137805,
+            "changeTime": 1544889137805,
+            "contentHash": "2a163ad9f1dc2444665b757fb63b0f1ccda7c51a"
         }
     ]
 ]
